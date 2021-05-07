@@ -1,0 +1,240 @@
+LiF Lithium fluoride								
+LiCl Lithium chloride								
+LiBr Lithium bromide								
+LiI Lithium iodide								
+Li2O Lithium oxide								
+Li2S Lithium sulfide								
+Li3N Lithium nitride								
+Li3P Lithium phosphide								
+LiOH Lithium hydroxide								
+LiNO3 Lithium nitrate								
+LiNO3 Lithium nitrite								
+Li3PO4 Lithium phosphate								
+Li2SO4 Lithium sulfate								
+Li2SO3 Lithium sulfite								
+NaF Sodium fluoride								
+NaCl Sodium chloride								
+NaBr Sodium bromide								
+NaI Sodium iodide								
+Na2O Sodium oxide								
+Na2S Sodium sulfide								
+Na3N Sodium nitride								
+Na3P Sodium phosphide								
+NaOH Sodium hydroxide								
+NaNO3 Sodium nitrate								
+NaNO2 Sodium nitrite								
+Na3PO4 Sodium phosphate								
+Na2SO4 Sodium sulfate								
+Na2SO3 Sodium sulfite								
+KF Potassium fluoride								
+KCl Potassium chloride								
+KBr Potassium bromide								
+KI Potassium iodide								
+K2O Potassium oxide								
+K2S Potassium sulfide								
+K3N Potassium nitride								
+K3P Potassium phosphide								
+KOH Potassium hydroxide								
+KNO3 Potassium nitrate								
+KNO2 Potassium nitrite								
+K3PO4 Potassium phosphate								
+K2SO4 Potassium sulfate								
+K2SO3 Potassium sulfite								
+BeF2 Beryllium flouride								
+BeCl2 Beryllim chloride								
+BeBr2 Beryllium bromide								
+BeI2 Beryllium iodide								
+BeO Beryllium oxide								
+BeS Beryllium sulfide								
+Be3N2 Beryllium nitride								
+Be3P2 Beryllim phosphide								
+Be(OH)2 Beryllium hydroxide								
+Be(NO3)2 Beryllium nitrate								
+Be(NO2)2 Beryllium nitrite								
+Be3(PO4)2 Beryllium phosphate								
+BeSO4 Beryllium sulfate								
+BeSO3 Beryllium sulfite								
+MgF2 Magnesium fluoride								
+MgCl2 Magnesium chloride								
+MgBr2 Magnesium bromide								
+MgI2 Magnesium iodide								
+MgO Magnesium oxide								
+MgS Magnesium sulfide								
+Mg3N2 Magnesium nitride								
+Mg3P2 Magnesium phosphide								
+Mg(OH)2 Magnesium hydroxide								
+Mg(NO3)2 Magnesium nitrate								
+Mg(NO2)2 Magnesium nitrite								
+Mg3(PO4)2 Magnesium phosphate								
+MgSO4 Magnesium sulfate								
+MgSO3 Magnesium sulfite								
+CaF2 Calcium fluoride								
+CaCl2 Calcium chloride								
+CaBr2 Calcium bromide								
+CaI2 Calcium iodide								
+CaO Calcium oxide								
+CaS Calcium sulfide								
+Ca3N2 Calcium nitride								
+Ca3P2 Calcium phosphide								
+Ca(OH)2 Calcium hydroxide								
+Ca(NO3)2 Calcium nitrate								
+Ca(NO2)2 Calcium nitrite								
+Ca3(PO4)2 Calcium phosphate								
+CaSO4 Calcium sulfate								
+CaSO3 Calcium sulfite								
+AlF3 Aluminum fluoride								
+AlCl3 Aluminum chloride								
+AlBr3 Aluminum bromide								
+AlI3 Aluminum iodide								
+Al2O3 Aluminum oxide								
+Al2S3 Aluminum sulfide								
+AlN Aluminum nitride								
+AlP Aluminum phosphide								
+Al(OH)3 Aluminum hydroxide								
+Al(NO3)3 Aluminum nitrate								
+Al(NO2)3 Aluminum nitrite								
+AlPO4 Aluminum phosphate								
+Al2(SO4)3 Aluminum sulfate								
+Al2(SO3)3 Aluminum sulfite								
+FeF Iron (I) fluoride								
+FeCl Iron (I) chloride								
+FeBr Iron (I) bromide								
+FeI Iron (I) iodide								
+Fe2O Iron (I) oxide								
+Fe2S Iron (I) sulfide								
+Fe3N Iron (I) nitride								
+Fe3P Iron (I) phosphide								
+FeOH Iron (I) hydroxide								
+FeNO3 Iron (I) nitrate								
+FeNO2 Iron (I) nitrite								
+Fe3PO4 Iron (I) phosphate								
+Fe2SO4 Iron (I) sulfate								
+Fe2SO3 Iron (I) sulfite								
+FeF2 Iron (II) fluoride								
+FeCl2 Iron (II) chloride								
+FeBr2 Iron (II) bromide								
+FeI2 Iron (II) iodide								
+FeO Iron (II) oxide								
+FeS Iron (II) sulfide								
+Fe3N2 Iron (II) nitride								
+Fe3P2 Iron (II) phosphide								
+Fe(OH)2 Iron (II) hydroxide								
+Fe(NO3)2 Iron (II) nitrate								
+Fe(NO2)2 Iron (II) nitrite								
+Fe3(PO4)2 Iron (II) phosphate								
+FeSO4 Iron (II) sulfate								
+FeSO3 Iron (II) sulfite								
+HF Hydrofluoric acid								
+HCl Hydrochloric acid								
+HBr Hydrobromic acid								
+HI Hydroiodic acid								
+HNO3 Nitric acid								
+HNO2 Nitrous acid								
+H3PO4 Phosphoric acid								
+H2SO4 Sulfuric acid								
+H2SO3 Sulfurous acid								
+CuF Copper (I) fluoride								
+CuCl Copper (I) chloride								
+CuBr Copper (I) bromide								
+CuI Copper (I) iodide								
+Cu2O Copper (I) oxide								
+Cu2S Copper (II) sulfide								
+Cu3N Copper (I) nitride								
+Cu3P Copper (I) phosphide								
+CuOH Copper (I) hydroxide								
+CuNO3 Copper (I) nitrate								
+CuNO2 Copper (I) nitrite								
+Cu3PO4 Copper (I) phosphate								
+Cu2SO4 Copper (I) sulfate								
+Cu2SO3 Copper (I) sulfite								
+CuF2 Copper (II) fluoride								
+CuCl2 Copper (II) chloride								
+CuBr2 Copper (II) bromide								
+CuI2 Copper (II) iodide								
+CuO Copper (II) oxide								
+CuS Copper (II) sulfide								
+Cu3N2 Copper (II) nitride								
+Cu3P2 Copper (II) phosphide								
+Cu(OH)2 Copper (II) hydroxide								
+Cu(NO3)2 Copper (II) nitrate								
+Cu(NO2)2 Copper (II) nitrite								
+Cu3(PO4)2 Copper (II) phosphate								
+CuSO4 Copper (II) sulfate								
+CuSO3 Copper (II) sulfite								
+AgF Silver (I) fluoride								
+AgCl Silver (I) chloride								
+AgBr Silver (I) bromide								
+AgI Silver (I) iodide								
+Ag2O Silver (I) oxide								
+Ag2S Silver (I) sulfide								
+Ag3N Silver (I) nitride								
+Ag3P Silver (I) phosphide								
+AgOH Silver (I) hydroxide								
+AgNO3 Silver (I) nitrate								
+AgNO2 Silver (I) nitrite								
+Ag3PO4 Silver (I) phosphate								
+Ag2SO4 Silver (I) sulfate								
+Ag2SO3 Silver (I) sulfite								
+AgF2 Silver (II) fluoride								
+AgCl2 Silver (II) chloride								
+AgBr2 Silver (II) bromide								
+AgI2 Silver (II) iodide								
+AgO Silver (II) oxide								
+AgS Silver (II) sulfide								
+Ag3N2 Silver (II) nitride								
+Ag3P2 Silver (II) phosphide								
+Ag(OH)2 Silver (II) hydroxide								
+Ag(NO3)2 Silver (II) nitrate								
+Ag(NO2)2 Silver (II) nitrite								
+Ag3(PO4)4 Silver (II) phosphate								
+AgSO4 Silver (II) sulfate								
+AgSO3 Silver (II) sulfite								
+ZnF Zinc (I) fluoride								
+ZnCl Zinc (I) chloride								
+ZnBr Zinc (I) bromide								
+ZnI Zinc (I) iodide								
+Zn2O Zinc (I) oxide								
+Zn2S Zinc (I) sulfide								
+Zn3N Zinc (I) nitride								
+Zn3P Zinc (I) phosphide								
+ZnOH Zinc (I) hydroxide								
+ZnNO3 Zinc (I) nitrate								
+ZnNO2 Zinc (I) nitrite								
+Zn3PO4 Zinc (I) phosphate								
+Zn2SO4 Zinc (I) sulfate								
+Zn2SO3 Zinc (I) sulfite								
+ZnF2 Zinc (II) fluoride								
+ZnCl2 Zinc (II) chloride								
+ZnBr2 Zinc (II) bromide								
+ZnI2 Zinc (II) iodide								
+ZnO Zinc (II) oxide								
+ZnS Zinc (II) sulfide								
+Zn3N2 Zinc (II) nitride								
+Zn3P2 Zinc (II) phosphide								
+Zn(OH)2 Zinc (II) hydroxide								
+Zn(NO3)2 Zinc (II) nitrate								
+Zn(NO2)2 Zinc (II) nitrite								
+Zn3(PO4)2 Zinc (II) phosphate								
+ZnSO4 Zinc (II) sulfate								
+ZnSO3 Zinc (II) sulfite								
+BF3 Boron trifluoride								
+CO2 Carbon dioxide								
+CO Carbon monoxide								
+CCl4 Carbon tetrachloride								
+H2O2 Dihydrogen dioxide								
+H2O Dihydrogen monoxide								
+N2O2 Dinitrogen dioxide								
+N2O4 Dinitrogen tetraoxide								
+IBr2 Iodine dibromide								
+NH3 Nitrogen trihydride								
+PCl3 Phosphorous trichloride								
+SiO2 Silicon dioxide								
+SiCl4 Silicaon tetrachloride								
+SO2 Sulfur dioxide								
+SF6 Sulfur hexafluoride								
+NH4OH Ammonium hydroxide								
+NH4NO3 Ammonium nitrate								
+NH4NO2 Ammonium nitrite								
+NH4SO4 Ammonium sulfate								
+NH4SO3 Ammonium sulfite								
+NH4PO4 Ammonium phosphate								
